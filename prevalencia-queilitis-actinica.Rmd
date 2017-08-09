@@ -1,0 +1,14 @@
+---
+title: Prevalencia Queilitis"
+output: html_notebook
+---
+
+# Titulo 1
+## Titulo segundo nivel
+
+Este es un texto. R no lo lee ni ejecuta
+```{r}
+hist(rnorm(100))
+```
+
+
