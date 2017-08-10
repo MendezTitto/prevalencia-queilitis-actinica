@@ -1,8 +1,0 @@
----
-title: Prevalencia Queilitis"
-output: html_notebook
----
-```{r}
-
-```
-
